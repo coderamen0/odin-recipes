@@ -1,3 +1,1 @@
-##Recipes 
-
-A simple website made using html
+A simple recipes website made using html
